@@ -1,6 +1,5 @@
 # xiaoxiaoleng
 test 
-冷HRßß
 ok yes jflk
 dkjfladofelf
 aldjfajds
@@ -11,6 +10,4 @@ asd
 asdf
 adf
 aad
-ajdlfjadljf
-test.ok
 f
